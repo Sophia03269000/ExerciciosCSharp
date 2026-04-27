@@ -8,6 +8,6 @@ Console.WriteLine("9 * 1 = " + (9 * 5));
 Console.WriteLine("9 * 1 = " + (9 * 6));
 Console.WriteLine("9 * 1 = " + (9 * 7));
 Console.WriteLine("9 * 1 = " + (9 * 8));
-Console.WriteLine("9 * 1 = " + (9 * 9));
+Console.WriteLine("9 * 1 = " + (9 * 95));
 
 
